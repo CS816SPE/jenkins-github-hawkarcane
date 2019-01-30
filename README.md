@@ -4,7 +4,7 @@
 - Whenever you commit to your repository, the Jenkins job should run automatically.
 
 
-## These are the tasks I've implemented in this assignment
+## These are the tasks I've implemented in this assignment.
 - A simple job "python helloworld.py" is created.
 - And the job has been connected to my github repository using GIT SCM Poll for every 5 minutes.
 - And the jon runs automatically as soon as one commit changes to the repository.
