@@ -8,7 +8,7 @@
 - A simple job "python helloworld.py" is created.
 - And the job has been connected to my github repository using GIT SCM Poll for every 5 minutes.
 - And the jon runs automatically as soon as one commit changes to the repository.
-- The screenshots for above tasks are shown below.
+## The screenshots for above tasks are shown below.
 
 ![](1.png)
 ![](2.png)
